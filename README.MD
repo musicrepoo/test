@@ -4,4 +4,6 @@
 
 # Add Feature 1
 
-# Add Release 2
+# Add Release 1
+
+# Add Hotfix 1
