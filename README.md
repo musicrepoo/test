@@ -1,3 +1,0 @@
-# master
-
-# swtich to develop
